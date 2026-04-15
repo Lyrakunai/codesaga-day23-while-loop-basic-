@@ -5,4 +5,5 @@
 - otherwise infinite loop happens
 
   ## Simple practice
-  - day23 done.
+  - see day23_while_loop_basic.py
+  - see day23_challenges.py
